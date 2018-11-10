@@ -1,4 +1,4 @@
-﻿<Window 
+<Window 
     
     xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"    
         x:Class="TreeList_DataBinding.MainWindow"
