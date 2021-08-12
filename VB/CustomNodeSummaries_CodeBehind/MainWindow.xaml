@@ -1,0 +1,24 @@
+<Window x:Class="CustomNodeSummaries_CodeBehind.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+         xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid" 
+        xmlns:local="clr-namespace:CustomNodeSummaries_CodeBehind"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <dxg:TreeListControl AutoGenerateColumns="AddNew" Name="grid">
+            <dxg:TreeListControl.View>
+                <dxg:TreeListView AutoExpandAllNodes="True" AutoWidth="True" 
+                                  KeyFieldName="ID" ParentFieldName="ParentID" 
+                                  ShowTotalSummary="True" ShowNodeFooters="True" 
+                                  CustomSummary="OnCustomSummary">
+                    <dxg:TreeListView.NodeSummary>
+                        <dxg:TreeListSummaryItem FieldName="Statistics" SummaryType="Custom" ShowInColumn="Statistics"/>
+                    </dxg:TreeListView.NodeSummary>
+                </dxg:TreeListView>
+            </dxg:TreeListControl.View>
+        </dxg:TreeListControl>
+    </Grid>
+</Window>
