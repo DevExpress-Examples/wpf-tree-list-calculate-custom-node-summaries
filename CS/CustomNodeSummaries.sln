@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomNodeSummaries_CodeBehind", "CustomNodeSummaries_CodeBehind\CustomNodeSummaries_CodeBehind.csproj", "{B9862F87-0791-411D-8448-87F6C9B03622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomNodeSummaries_MVVM", "CustomNodeSummaries_MVVM\CustomNodeSummaries_MVVM.csproj", "{C1BC5077-C8B3-4979-9D83-020EAE97DB55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9862F87-0791-411D-8448-87F6C9B03622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9862F87-0791-411D-8448-87F6C9B03622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9862F87-0791-411D-8448-87F6C9B03622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9862F87-0791-411D-8448-87F6C9B03622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BC5077-C8B3-4979-9D83-020EAE97DB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BC5077-C8B3-4979-9D83-020EAE97DB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BC5077-C8B3-4979-9D83-020EAE97DB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BC5077-C8B3-4979-9D83-020EAE97DB55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09DC5AB9-A15F-4442-BA77-4FBFA8C52743}
+	EndGlobalSection
+EndGlobal
