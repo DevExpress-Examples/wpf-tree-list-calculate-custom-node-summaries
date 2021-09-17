@@ -8,6 +8,8 @@
 
 This example demonstrates how to calculate custom node summaries in the [TreeListView](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TreeListView). To do this, use the TreeListView’s [CustomSummary](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TreeListView.CustomSummary) event / [CustomSummaryCommand](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TreeListView.CustomSummaryCommand) property. The **IsNodeSummary** property allows you to determine whether to calculate node summaries.
 
+![](https://docs.devexpress.com/WPF/images/TreeListView_CustomSummary.png?v=21.2)
+
 <!-- default file list -->
 
 ## Files to Look At
