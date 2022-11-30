@@ -12,10 +12,10 @@
             <dxg:TreeListControl.View>
                 <dxg:TreeListView AutoExpandAllNodes="True" AutoWidth="True" 
                                   KeyFieldName="ID" ParentFieldName="ParentID" 
-                                  ShowTotalSummary="True" ShowNodeFooters="True" 
+                                  ShowNodeFooters="True" 
                                   CustomSummary="OnCustomSummary">
                     <dxg:TreeListView.NodeSummary>
-                        <dxg:TreeListSummaryItem FieldName="Statistics" SummaryType="Custom" ShowInColumn="Statistics"/>
+                        <dxg:TreeListSummaryItem FieldName="Statistics" SummaryType="Custom"/>
                     </dxg:TreeListView.NodeSummary>
                 </dxg:TreeListView>
             </dxg:TreeListControl.View>
