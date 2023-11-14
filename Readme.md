@@ -10,7 +10,7 @@ This example demonstrates how to calculate custom node summaries in the [TreeLis
 
 ![](https://docs.devexpress.com/WPF/images/TreeListView_CustomSummary.png)
 
-## Files to Look At
+## Files to Review
 
 ### Code Behind Technique
 
@@ -31,6 +31,7 @@ This example demonstrates how to calculate custom node summaries in the [TreeLis
 
 ## More Examples
 
-- [How to Display Group Summaries](https://github.com/DevExpress-Examples/how-to-display-group-summaries-e1637)
-- [How to Display Total Summaries](https://github.com/DevExpress-Examples/how-to-display-total-summaries-e1636)
-- [How to Use Custom Summaries](https://github.com/DevExpress-Examples/how-to-summarize-empty-cells-e948)
+- [WPF Tree List - Display Node Summaries](https://github.com/DevExpress-Examples/wpf-tree-list-display-node-summaries)
+- [WPF Tree List - Generate Node Summaries Based on a View Model Collection](https://github.com/DevExpress-Examples/wpf-tree-list-generate-node-summaries-from-collection)
+- [WPF Data Grid - Display Total Summaries](https://github.com/DevExpress-Examples/how-to-display-total-summaries-e1636)
+- [WPF Data Grid - Use Custom Summaries](https://github.com/DevExpress-Examples/wpf-data-grid-summarize-empty-cells)
