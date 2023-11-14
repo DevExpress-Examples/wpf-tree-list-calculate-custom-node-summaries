@@ -4,13 +4,11 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WPF Tree List - How to calculate custom Node Summaries
+# WPF Tree List - Calculate Custom Node Summaries
 
 This example demonstrates how to calculate custom node summaries in the [TreeListView](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TreeListView). To do this, use the TreeListView’s [CustomSummary](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TreeListView.CustomSummary) event / [CustomSummaryCommand](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TreeListView.CustomSummaryCommand) property. The **IsNodeSummary** property allows you to determine whether to calculate node summaries.
 
-![](https://docs.devexpress.com/WPF/images/TreeListView_CustomSummary.png?v=21.2)
-
-<!-- default file list -->
+![](https://docs.devexpress.com/WPF/images/TreeListView_CustomSummary.png)
 
 ## Files to Look At
 
@@ -23,8 +21,6 @@ This example demonstrates how to calculate custom node summaries in the [TreeLis
 
 - [MainWindow.xaml](./CS/CustomNodeSummaries_MVVM/MainWindow.xaml) ([MainWindow.xaml](./VB/CustomNodeSummaries_MVVM/MainWindow.xaml))
 - [MainViewModel.cs](./CS/CustomNodeSummaries_MVVM/MainViewModel.cs#L28-L35) ([MainViewModel.vb](./VB/CustomNodeSummaries_MVVM/MainViewModel.vb#L30-L37))
-
-<!-- default file list end -->
 
 ## Documentation
 
