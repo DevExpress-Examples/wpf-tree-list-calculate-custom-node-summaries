@@ -14,13 +14,13 @@ This example demonstrates how to calculate custom node summaries in the [TreeLis
 
 ### Code Behind Technique
 
-- [MainWindow.xaml](./CS/CustomNodeSummaries_CodeBehind/MainWindow.xaml) ([MainWindow.xaml](./VB/CustomNodeSummaries_CodeBehind/MainWindow.xaml))
-- [MainWindow.xaml.cs](./CS/CustomNodeSummaries_CodeBehind/MainWindow.xaml.cs#L23-L29) ([MainWindow.xaml.vb](./VB/CustomNodeSummaries_CodeBehind/MainWindow.xaml.vb#L25-L31))
+- [MainWindow.xaml](./CS/CustomNodeSummaries_CodeBehind/MainWindow.xaml)
+- [MainWindow.xaml.cs](./CS/CustomNodeSummaries_CodeBehind/MainWindow.xaml.cs#L23-L29) ([MainWindow.xaml.vb](./VB/CustomNodeSummaries_CodeBehind/MainWindow.xaml.vb#L32-L38))
 
 ### MVVM Technique
 
-- [MainWindow.xaml](./CS/CustomNodeSummaries_MVVM/MainWindow.xaml) ([MainWindow.xaml](./VB/CustomNodeSummaries_MVVM/MainWindow.xaml))
-- [MainViewModel.cs](./CS/CustomNodeSummaries_MVVM/MainViewModel.cs#L28-L35) ([MainViewModel.vb](./VB/CustomNodeSummaries_MVVM/MainViewModel.vb#L30-L37))
+- [MainWindow.xaml](./CS/CustomNodeSummaries_MVVM/MainWindow.xaml)
+- [MainViewModel.cs](./CS/CustomNodeSummaries_MVVM/MainViewModel.cs#L28-L35) ([MainViewModel.vb](./VB/CustomNodeSummaries_MVVM/MainViewModel.vb#L34-L41))
 
 ## Documentation
 
